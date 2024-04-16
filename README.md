@@ -123,5 +123,9 @@ Alamat Toko : Tanjung Pinang
 Nama Pemilik Toko : Rizky Tsaniyatun Rofiah
 
 
+#ERD PLUS
+
+![image](https://github.com/RizkyTsaniyatunRofiah/PENGKODEANDANPEMROGRAMAN_POSKASIR_RizkyTsaniyatunRofi-ah/assets/166540615/a054133e-45d0-4662-b8d9-a52c5e19ec3e)
+
 
 
