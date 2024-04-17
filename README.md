@@ -1,20 +1,23 @@
 # PENGKODEANDANPEMROGRAMAN_POSKASIR_RizkyTsaniyatunRofi-ah
 Untuk memenuhi ujian tengah semester mata kuliah pengkodean dan pemrograman yang diampu oleh Dr. Totok Dewayanto, SE., Msi., Akt. Saya Rizky Tsaniyatun Rofiah dengan NIM 12030122120059 telah menyelesaikan UTS Github Pos Kasir
 
-#TUGAS PENGKODEAN DAN PEMROGRAMAN
+# TUGAS PENGKODEAN DAN PEMROGRAMAN
 
 Nama : Rizky Tsaniyatun Rofi'ah
 
 NIM : 12030122120059
 
+# REFERENSI GITHUB
 
-#PENGGUNAAN LOGIN
+https://github.com/fauzan1892/pos-kasir-php
+
+# PENGGUNAAN LOGIN
 
 Username : RizkyRofi
 
 Password : 180704
 
-#DESAIN PROGRAM ASLI 
+# DESAIN PROGRAM ASLI 
 
 Login 
 ![Login](https://github.com/RizkyTsaniyatunRofiah/PENGKODEANDANPEMROGRAMAN_POSKASIR_RizkyTsaniyatunRofi-ah/assets/166540615/e8476ead-9aeb-4971-b1d0-43cd765e9c7d)
@@ -32,7 +35,7 @@ Profil
 
 
 
-#PROGRAM DESAIN MODIFIKASI 
+# PROGRAM DESAIN MODIFIKASI 
 
 Login 
 ![Login Pos Kasir ](https://github.com/RizkyTsaniyatunRofiah/PENGKODEANDANPEMROGRAMAN_POSKASIR_RizkyTsaniyatunRofi-ah/assets/166540615/f4544965-633e-49a2-9e04-3a747db15826)
